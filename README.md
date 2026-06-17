@@ -1,35 +1,59 @@
 # Hi, I'm Wonjun 👋
 
-🎓 Exchange Student at UT Austin  
-📊 Data Science & Machine Learning Portfolio  
-💡 Interested in AI, Machine Learning, and Data-Driven Systems
+🤖 Robotics Researcher | 🎓 Exchange Student at UT Austin | 📊 CV & ML Practitioner  
+Interested in **robot perception, 3D scene reconstruction, and autonomous systems**
 
+---
 
+## 🔬 About Me
 
-## 📊 About Me
-I am a data analytics-focused student with hands-on experience in Python, SQL, and data visualization.  
-My work focuses on transforming real-world data into actionable insights through data cleaning, exploratory analysis, machine learning, and interactive dashboards.
+I'm an undergraduate student in Industrial Engineering at Korea University,  
+currently on exchange at **UT Austin** and conducting research at the **RSN Lab** (Robot Perception & Navigation Lab)  
+under Prof. Volkan Isler.
 
-I am currently an undergraduate student in Industrial Engineering at Korea University and expect to graduate in 2026.  
-With an initial interest in consulting, I developed a strong interest in data science through hands-on analytics projects and coursework in statistics, machine learning, and data visualization.
+My research focuses on building **real-world robot simulation pipelines** using:
+- **3D Gaussian Splatting** (3DGRUT, 2DGS) for scene reconstruction
+- **NVIDIA Isaac Sim** for physics-based robot simulation
+- Large-scale DSLR dataset processing on **TACC (A100 GPUs)**
 
-Through academic and applied projects, I have worked on problems such as computer vision–based customer analysis, routing optimization, and financial data analysis. I enjoy building end-to-end analytics pipelines—from data preparation and modeling to communicating insights through visualizations.
+I also have a strong foundation in data analytics and machine learning from hands-on projects  
+in computer vision, NLP, and business data analysis.
 
+---
 
 ## 🛠 Skills & Tools
-- **Languages:** Python, SQL, R  
-- **Data Analysis:** Pandas, NumPy, Scikit-learn  
-- **Visualization:** Tableau, Power BI, Matplotlib  
-- **Databases:** SQL Server  
-- **Workflow:** Data Cleaning, EDA, Machine Learning, Dashboarding
 
+**Robotics & Simulation**
+- NVIDIA Isaac Sim, Gaussian Splatting (3DGRUT, 2DGS), COLMAP, cuVSLAM
+- SLURM / HPC (TACC Lonestar6), Linux, Docker
 
+**Machine Learning & CV**
+- Python, PyTorch, Scikit-learn
+- Computer Vision (ReID, Sentiment Analysis, Segmentation)
 
-## 📈 Currently Learning
-- Statistical Machine Learning  
-- Data Visualization Systems and Interactive Dashboards  
+**Data & Visualization**
+- SQL, Pandas, NumPy, Tableau, Power BI
 
+---
 
+## 📌 Featured Work
+
+| Project | Description |
+|---|---|
+| 🏗️ [Gaussian Splatting + Isaac Sim Pipeline](https://github.com/wr5477) | 3D scene reconstruction → robot simulation (RSN Lab) |
+| 👁️ [Multi-Camera Person Re-ID](https://github.com/wr5477/multi-camera-person-reid) | CV-based customer analysis using ResNet |
+| 🚚 [Last-Mile Routing Optimization](https://github.com/wr5477/last-mile-routing-optimization) | Logistics optimization with Python |
+| 📈 [Apple Stock Sentiment Analysis](https://github.com/wr5477/apple-stock-sentiment-analysis) | NLP + financial data dashboard |
+
+---
+
+## 📈 Currently Working On
+
+- 🔭 Gaussian Splatting + traversability mapping for autonomous navigation (RSN Lab)
+- 🤖 Integrating cuVSLAM into real-world robot sim pipeline
+
+---
 
 ## 🔗 Connect with Me
-- LinkedIn: https://linkedin.com/in/wonjunryhu
+
+- LinkedIn: [linkedin.com/in/wonjunryhu](https://linkedin.com/in/wonjunryhu)
